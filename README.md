@@ -28,6 +28,6 @@ If you use this project, cite:
 
 You can download the code by:
 
-    git clone https://github.com/gabrieldgf4/aerial_tree_detection.git
-    cd aerial_tree_detection 
+    git clone https://github.com/gabrieldgf4/aerial-tree-detection.git
+    cd aerial-tree-detection 
 
