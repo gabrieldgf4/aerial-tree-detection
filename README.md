@@ -19,7 +19,7 @@ If you use this project, cite:
     Title = {Extending the Aerial Image Analysis from the Detection of Tree Crowns},
     booktitle={2019 IEEE 31st International Conference on Tools with Artificial Intelligence (ICTAI)}, 
     pages={1681-1685},
-    doi={10.1109/ICTAI.2019.00247}}
+    doi={10.1109/ICTAI.2019.00247}
     year={2019}
     }
  
