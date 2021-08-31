@@ -3,7 +3,7 @@ It is a method for detecting and segmenting treetops, delineating shaded areas a
 
 This project presents the SCC method for the refinement of disparity maps. It is related to the research field of stereo vision in which we can estimate depth information from a pair of images.
 
-Original paper URL: https://ieeexplore.ieee.org/document/8671683, https://ieeexplore.ieee.org/document/8538562
+Original paper URL: [https://ieeexplore.ieee.org/document/8995212](https://ieeexplore.ieee.org/document/8995212)
 
 If you use this project, cite:
 
@@ -26,6 +26,6 @@ If you use this project, cite:
 
 You can download the code by:
 
-git clone https://github.com/gabrieldgf4/aerial_tree_detection
+git clone https://github.com/gabrieldgf4/aerial_tree_detection.git
 cd aerial_tree_detection
 
