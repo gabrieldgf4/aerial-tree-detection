@@ -20,7 +20,8 @@ If you use this project, cite:
     booktitle={2019 IEEE 31st International Conference on Tools with Artificial Intelligence (ICTAI)}, 
     pages={1681-1685},
     doi={10.1109/ICTAI.2019.00247}}
-    year={2019}}
+    year={2019}
+    }
  
 
 ![alt tag](https://user-images.githubusercontent.com/63321757/131576181-6e42b7aa-3775-41a0-aacf-9eddb8d5a220.png)
