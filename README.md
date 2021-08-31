@@ -23,7 +23,7 @@ If you use this project, cite:
     year={2019}
   }
 
-![alt tag](https://github.com/gabrieldgf4/aerial_tree_detection/issues/1#issue-984249557)
+![alt tag](https://user-images.githubusercontent.com/63321757/131567338-eae14271-df89-4d80-9961-697cd1578267.png)
 
 You can download the code by:
 
