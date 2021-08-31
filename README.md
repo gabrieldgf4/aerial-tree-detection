@@ -23,7 +23,7 @@ If you use this project, cite:
     year={2019}
   }
 
-![alt tag](http://url/to/Capa_Github.png)
+![alt tag](https://github.com/gabrieldgf4/aerial_tree_detection/issues/1#issue-984249557)
 
 You can download the code by:
 
