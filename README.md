@@ -23,7 +23,7 @@ If you use this project, cite:
     year={2019}}
  
 
-![alt tag](https://user-images.githubusercontent.com/63321757/131567338-eae14271-df89-4d80-9961-697cd1578267.png)
+![alt tag](https://user-images.githubusercontent.com/63321757/131576181-6e42b7aa-3775-41a0-aacf-9eddb8d5a220.png)
 
 You can download the code by:
 
