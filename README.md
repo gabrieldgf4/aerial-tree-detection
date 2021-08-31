@@ -23,6 +23,7 @@ If you use this project, cite:
     year={2019}
   }
 
+![alt tag](http://url/to/Capa_Github.png)
 
 You can download the code by:
 
