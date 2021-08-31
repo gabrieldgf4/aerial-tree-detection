@@ -8,7 +8,7 @@ Original paper URL: [https://ieeexplore.ieee.org/document/8995212](https://ieeex
 If you use this project, cite:
 
 
-    @INPROCEEDINGS{gabrielCJECE2018,
+    @INPROCEEDINGS{gabrielICTAI2019,
     Author = Author={Vieira, Gabriel and 
               Rocha, Bruno M. and
               Soares, Fabrizzio and
@@ -20,12 +20,13 @@ If you use this project, cite:
     booktitle={2019 IEEE 31st International Conference on Tools with Artificial Intelligence (ICTAI)}, 
     pages={1681-1685},
     doi={10.1109/ICTAI.2019.00247}}
-    year={2018}
+    year={2019}
   }
 
 
 You can download the code by:
 
 git clone https://github.com/gabrieldgf4/aerial_tree_detection.git
+
 cd aerial_tree_detection
 
